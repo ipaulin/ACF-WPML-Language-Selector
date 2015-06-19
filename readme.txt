@@ -1,8 +1,8 @@
-=== Advanced Custom Fields: wpml-language-selector Field ===
-Contributors: AUTHOR_NAME
-Tags: PLUGIN_TAGS
-Requires at least: 3.5
-Tested up to: 3.8.1
+=== Advanced Custom Fields: WPML Language Selector Field ===
+Contributors: Ivan Paulin
+Tags: acf, custom field, wpml, language, language select
+Requires at least: 4.0
+Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -27,5 +27,5 @@ This ACF field type is compatible with:
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.1.0 =
 * Initial Release.
