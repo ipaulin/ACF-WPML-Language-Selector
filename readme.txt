@@ -1,5 +1,5 @@
 === Advanced Custom Fields: WPML Language Selector Field ===
-Contributors: Ivan Paulin
+Contributors: ivan_paulin
 Tags: acf, custom field, wpml, language, language select
 Requires at least: 4.0
 Tested up to: 4.2.2
@@ -7,11 +7,13 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-SHORT_DESCRIPTION
 
 == Description ==
 
-EXTENDED_DESCRIPTION
+Custom field addon for Advanced Custom Fields plugin which provides a list of used WPML languages on website.
+Possibility to have multiple choices, or just one.
+
+It will not work if WPML plugin is not activated.
 
 = Compatibility =
 
